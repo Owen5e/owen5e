@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Owen5e
+# 👋 Hi, I’m Owen Olabode
 
 🎨 **Front-end Developer**  
 🛠️ React • Vue • Tailwind • Shadcn • JavaScript
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - Passionate about building beautiful, responsive user interfaces and seamless user experiences.
-- Certified Front-end Engineer from **Alt-School Africa**.
+- Certified Front-end Engineer from **AltSchool Africa**.
 - Love exploring open-source projects and diving into other developers’ code for inspiration and learning.
 - A huge football fan ⚽ – always up for a match or a discussion!
 - Always eager to learn, share knowledge, and collaborate with the dev community.
