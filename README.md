@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Owen Olabode
 
 🎨 **Front-end Developer**  
-🛠️ React • Vue • Tailwind • Shadcn • JavaScript
+🛠️ React • TypeScript • Tailwind • Shadcn • JavaScript
 
 ---
 
